@@ -3,9 +3,9 @@
 // @version      1.0.0
 // @description  Universal userscript bypass(no support captcha)
 // @author       NovaX
-// @homepageURL  https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO
-// @updateURL    https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/bacon-bypass.user.js
-// @downloadURL  https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/bacon-bypass.user.js
+// @homepageURL  https://github.com/Lonmethgkhoi/NovaX.userscript
+// @updateURL    https://raw.githubusercontent.com/Lonmethgkhoi/NovaX.userscript/main/main.js
+// @downloadURL  https://raw.githubusercontent.com/Lonmethgkhoi/NovaX.userscript/main/main.js
 
 // ---------------------- match list ----------------------
 // (keep or extend these matches as you like)
