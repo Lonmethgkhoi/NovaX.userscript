@@ -5,3 +5,10 @@ Supports Linkvertise, Loot-link, Sub2Unlock, MBoost, and more.
 1. Install [Tampermonkey](https://www.tampermonkey.net/)
 2. [Violentmonkey](https://violentmonkey.github.io/).
 3. Click [here to install](https://raw.githubusercontent.com/username/repo/main/bypass.user.js).
+4. ---
+
+### 🙌 8. Credits & License
+```markdown
+## 🙌 Credits
+- Written with ❤️ by [NovaX]  
+
